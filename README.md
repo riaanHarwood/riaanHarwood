@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My name is Riaan Harwood. An aspiring software engineer currently based in Auckland, New Zealand. 
+
+Connect with me on instagram at: @_riaan.dev_ 
+
+## 🚀 Languages and Tools:
+
+
 <!--
 **riaanHarwood/riaanHarwood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
