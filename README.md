@@ -6,7 +6,8 @@ My name is Riaan Harwood. An aspiring software engineer currently based in Auckl
 ## Connect with me on 
 
 Instagram: @__riaan.dev__ 
-\n LinkedIn: https://www.linkedin.com/in/riaan-harwood
+<br>
+LinkedIn: https://www.linkedin.com/in/riaan-harwood
 
 
 
