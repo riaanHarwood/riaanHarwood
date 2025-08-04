@@ -6,6 +6,8 @@ Connect with me on instagram at: @__riaan.dev__
 
 ## 🚀 Languages and Tools:
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+
 
 <!--
 **riaanHarwood/riaanHarwood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
