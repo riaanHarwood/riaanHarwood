@@ -2,7 +2,7 @@
 
 My name is Riaan Harwood. An aspiring software engineer currently based in Auckland, New Zealand. 
 
-Connect with me on instagram at: __riaan.dev__ 
+Connect with me on instagram at: @__riaan.dev__ 
 
 ## 🚀 Languages and Tools:
 
