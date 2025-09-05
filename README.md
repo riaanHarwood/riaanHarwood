@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Riaan Harwood. Aspiring software engineer currently based in Auckland, New Zealand. 
+My name is Riaan Harwood. Aspiring software engineer currently based in Auckland, New Zealand. I have over two years of experience as a developer, mostly from freelance and small project-based work. You can contact me at riaanh27@hotmail.com
 
 
 ## Connect with me on 
