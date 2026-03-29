@@ -32,7 +32,7 @@ LinkedIn: https://www.linkedin.com/in/riaan-harwood
   <img src="https://api.iconify.design/logos:aws.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/>
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs.svg" width="40" height="4](https://cdn.jsdelivr.net/npm/webpack-iconfont-plugin-nodejs@1.0.36/src/md5.min.js)0"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
 </p>
 
 
