@@ -32,7 +32,7 @@ LinkedIn: https://www.linkedin.com/in/riaan-harwood
   <img src="https://api.iconify.design/logos:aws.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/>
-  <img src="https://nodejs.org/static/images/logo.svg" width="80"/>
+  <img src="https://nodejs.org/static/images/favicons/favicon.svg" width="40"/>
 </p>
 
 
