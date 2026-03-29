@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Riaan Harwood. A software engineer currently based in Auckland, New Zealand. I have over two years of experience as a developer, mostly from freelance and small project-based work. You can contact me at riaanh27@hotmail.com
+My name is Riaan Harwood. A software engineer currently based in Auckland, New Zealand. I have over two years of experience as a developer, mostly from freelance and small project-based work. I currently work as an integration engineer, developing reusable integration components and microservices using Node.js and TypeScript. You can contact me at riaandevtesting@gmail.com 
 
 
 ## Connect with me on 
