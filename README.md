@@ -35,8 +35,6 @@ LinkedIn: https://www.linkedin.com/in/riaan-harwood
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
 </p>
 
-
-
 <!--
 **riaanHarwood/riaanHarwood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
