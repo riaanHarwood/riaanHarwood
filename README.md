@@ -60,7 +60,6 @@ LinkedIn: https://www.linkedin.com/in/riaan-harwood
     </td>
   </tr>
 </table>
-<!--
 
 
 **riaanHarwood/riaanHarwood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
