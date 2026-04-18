@@ -13,6 +13,9 @@ LinkedIn: https://www.linkedin.com/in/riaan-harwood
 
 ## 🚀 Languages and Tools:
 
+
+<h2 align="center">🚀 Languages & Tools</h2>
+
 <table align="center">
   <tr>
     <td align="center"><strong>Languages</strong></td>
@@ -57,8 +60,9 @@ LinkedIn: https://www.linkedin.com/in/riaan-harwood
     </td>
   </tr>
 </table>
-
 <!--
+
+
 **riaanHarwood/riaanHarwood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
