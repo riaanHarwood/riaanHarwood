@@ -83,7 +83,7 @@ Python-based desktop application showcasing OOP and authentication.
 
 - AI-powered tools for tradesmen  
 - No-code website builder platform  
-- Cybersecurity startup: **Sentura**
+
 
 ---
 
@@ -94,6 +94,3 @@ Python-based desktop application showcasing OOP and authentication.
 
 ---
 
-<p align="center">
-  <i>“Trust the Edge. Defend with Sentura.”</i>
-</p>
