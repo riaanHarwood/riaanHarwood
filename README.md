@@ -130,6 +130,7 @@ Built with JavaScript
 
 ## 🚧 Currently Building
 
+- Advanced AI Security System for SME 
 - AI-powered tools for tradesmen  
 - No-code website builder platform  
 
