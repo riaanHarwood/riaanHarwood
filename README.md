@@ -61,12 +61,61 @@ I enjoy designing scalable systems, building modern web applications, and explor
 
 ## 📦 Featured Projects
 
-### 🔹 Banking System Simulator
-Python-based desktop application showcasing OOP and authentication.
+<div align="center"> <table> <tr> <td width="50%">
+  
+**🔹 Banking System Simulator**
 
-- Secure login with hashing
-- GUI-based system
-- Object-oriented design
+A desktop banking system simulation showcasing core software engineering principles.
+
+Object-oriented design (OOP)
+Secure authentication with password handling
+GUI-based user interaction (Python)
+</td> <td width="50%">
+  
+**🔹 Mini AI App Builder Portal**
+
+A lightweight AI-powered platform that generates app concepts from user input.
+
+AI-driven application generation
+Dynamic input handling
+Built with JavaScript and API integration
+</td> </tr> <tr> <td width="50%">
+  
+**🔹 Weather App**
+
+A modern weather application built using Next.js.
+
+Real-time weather data integration
+Clean, responsive UI
+Built with Next.js
+</td> <td width="50%">
+  
+**🔹 Flashcard App**
+
+An interactive web app designed to enhance learning through flashcards.
+
+Dynamic state management
+Clean UI with theme support
+Built with TypeScript
+</td> </tr> <tr> <td width="50%">
+  
+**🔹 Automated File Organizer**
+
+A Python automation script that organizes files within a directory.
+
+File sorting and categorisation
+Lightweight automation tool
+Practical scripting use case
+</td> <td width="50%">
+  
+**🔹 Calculator Application**
+  
+A simple and functional desktop calculator for everyday use.
+
+Core arithmetic operations
+Clean and minimal interface
+Built with JavaScript
+</td> </tr> </table> </div>
 
 ---
 
