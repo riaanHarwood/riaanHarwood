@@ -61,15 +61,6 @@ I enjoy designing scalable systems, building modern web applications, and explor
 
 ## 📦 Featured Projects
 
-### 🔹 G&L Auckland Residential Painting
-Modern responsive website for a residential painting business.
-
-- Clean UI/UX design
-- Fully responsive
-- Built with HTML, CSS, JavaScript
-
----
-
 ### 🔹 Banking System Simulator
 Python-based desktop application showcasing OOP and authentication.
 
