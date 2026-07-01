@@ -22,7 +22,7 @@
 
 I’m a software engineer based in Auckland, New Zealand, currently working as an **Integration Engineer** building reusable microservices and APIs using Java, Python, MuleSoft, Node.js and TypeScript.
 
-I enjoy designing scalable systems, building modern web applications, and exploring AI-driven solutions.
+My work involves technologies such as MuleSoft, VS Code, Postman, Java, Python, Node.js, and TypeScript/JavaScript. I enjoy designing scalable systems, building modern web applications, and exploring AI-driven solutions. In my spare time, you'll find me on the pitch playing footie or out on the water fishing.
 
 ---
 
