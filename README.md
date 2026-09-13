@@ -20,7 +20,7 @@
 
 ## 👋 About
 
-I’m a software engineer based in Auckland, New Zealand, currently working as an **Integration Engineer** building reusable microservices and APIs using Java, Python, MuleSoft, Node.js and TypeScript.
+I’m a software engineer based in Brisbane, Australia, currently working as an **Software Implementation Specialist** and Freelance Developer building reusable microservices and APIs using C#, Java, Python, MuleSoft, Node.js and TypeScript.
 
 My work involves technologies such as MuleSoft, VS Code, Postman, Java, Python, Node.js, and TypeScript/JavaScript. I enjoy designing scalable systems, building modern web applications, and exploring AI-driven solutions. In my spare time, you'll find me on the pitch playing footie or out on the water fishing.
 
@@ -33,6 +33,7 @@ My work involves technologies such as MuleSoft, VS Code, Postman, Java, Python, 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
