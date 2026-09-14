@@ -22,7 +22,7 @@
 
 I’m a software engineer based in Brisbane, Australia, currently working as an **Software Implementation Specialist** and Freelance Developer building reusable microservices and APIs using C#, Java, Python, MuleSoft, Node.js and TypeScript.
 
-My work involves technologies such as MuleSoft, VS Code, Postman, Java, Python, Node.js, and TypeScript/JavaScript. I enjoy designing scalable systems, building modern web applications, and exploring AI-driven solutions. In my spare time, you'll find me on the pitch playing footie or out on the water fishing.
+My work involves technologies such as C#, Java, Python, Node.js, MuleSoft, VS Code, Postman, and TypeScript/JavaScript. I enjoy designing scalable systems, building modern web applications, and exploring AI-driven solutions. In my spare time, you'll find me on the pitch playing footie or out on the water fishing.
 
 ---
 
