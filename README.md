@@ -59,6 +59,12 @@ My work involves technologies such as MuleSoft, VS Code, Postman, Java, Python, 
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![MuleSoft](https://img.shields.io/badge/MuleSoft-00A1E0?style=for-the-badge&logo=mulesoft&logoColor=white)
 
+
+### AI Tools
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+
 </div>
 
 ---
