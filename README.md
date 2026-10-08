@@ -1,7 +1,7 @@
 <h1 align="center">Riaan Harwood</h1>
 
 <p align="center">
-  Software Engineer • Integration Engineer • Building scalable systems
+  Software Engineer • Integration Developer • Building scalable systems
 </p>
 
 <p align="center">
