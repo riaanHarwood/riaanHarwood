@@ -2,6 +2,7 @@
 
 <p align="center">
   Software Engineer • Integration Developer • Building scalable systems
+   • Mobile Apps
 </p>
 
 <p align="center">
